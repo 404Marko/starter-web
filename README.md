@@ -22,3 +22,7 @@ Testing
 Marko Gwapo
 
 ## KayaNi
+
+## Copyright
+
+2021 Git.Training.
