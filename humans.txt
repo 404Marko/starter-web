@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marko Polo markopolo404@gmail.com @markothegreat
 
 # THANKS
 
